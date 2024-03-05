@@ -4,26 +4,30 @@ namespace Course {
     internal class Program {
         static void Main(string[] args) {
 
-            string produto1 = "Computador";
-            string produto2 = "Masa de escritório";
+            Console.WriteLine("Entre com seu nome completo: ");
+            string nome = Console.ReadLine();
 
-            byte idade = 30;
-            int codigo = 5290;
-            char genero = 'M';
+            Console.WriteLine("uantos quartos tem na sua casa?");
+            int quartos = int.Parse(Console.ReadLine());
 
-            double preco1 = 2100.0;
-            double preco2 = 650.50;
-            double medida = 53.234567;
+            Console.WriteLine("Entre com o preco de um produto:");
+            double productPrice = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Produtos:");
-            Console.WriteLine($"{produto1} cujo preço é $ {preco1:F2}");
-            Console.WriteLine($"{produto2} cujo preço é $ {preco2:F2}");
-            Console.WriteLine("");
-            Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}");
-            Console.WriteLine("");
-            Console.WriteLine($"Medida com 8 casas decimais: {medida:F8}");
-            Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
-            Console.WriteLine("Separador decimal invariant culture: " + medida.ToString("F3", CultureInfo.InvariantCulture));
+            Console.WriteLine("Entre seu último nome, idade e altura (mesma linha): ");
+            string[] infos = Console.ReadLine().Split(' ');
+            string lastName = infos[0];
+            int age = int.Parse(infos[1]);  
+            double altura = double.Parse(infos[2], CultureInfo.InvariantCulture);
+
+            Console.WriteLine(nome);
+            Console.WriteLine(quartos);
+            Console.WriteLine(productPrice.ToString("F2"));
+            Console.WriteLine(lastName);
+            Console.WriteLine(age);
+            Console.WriteLine(altura);
+
+
+
         }
     }
 }
