@@ -98,7 +98,27 @@ namespace Course {
 
             */
 
+            int a = 10;
+            bool aIsLowerThan10 = a < 10; //false
+            bool aIsLowerThan20 = a < 20; //true
+            bool aIsBiggerThan10 = a > 10; //false
+            bool aIsBiggerThan5= a > 5; //true
 
+
+            Console.WriteLine(aIsLowerThan10);
+            Console.WriteLine(aIsLowerThan20);
+            Console.WriteLine(aIsBiggerThan10);
+            Console.WriteLine(aIsBiggerThan5);
+            Console.WriteLine("----------------------------------------");
+
+            bool aIsLowerOrEqual10 = a <= 10;  //true
+            bool aIsBiggerOrEqual10 = a <= 10; //true
+            bool aIsEqual10 = a == 10; //true
+            bool aIsDiffeentFrom10 = a != 10; //false
+            Console.WriteLine(aIsLowerOrEqual10);
+            Console.WriteLine(aIsBiggerOrEqual10);
+            Console.WriteLine(aIsEqual10);
+            Console.WriteLine(aIsDiffeentFrom10);
 
 
 
