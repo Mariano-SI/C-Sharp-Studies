@@ -8,16 +8,21 @@ namespace Course {
     internal class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine("Digite três números: ");
+            double num = 0;
 
-            int num1 = int.Parse(Console.ReadLine());
-            int num2 = int.Parse(Console.ReadLine());
-            int num3 = int.Parse(Console.ReadLine());
+            while (num >= 0) {
+                Console.Write("Digite um número:");
+                num = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double resultado = Maior(num1, num2, num3);
-
-            Console.WriteLine("Maior = " + resultado);
-
+                if (num < 0) {
+                    Console.WriteLine("Número negativo!");  
+                }
+                else {
+                    double raiz = Math.Sqrt(num);
+                    Console.WriteLine(raiz.ToString("F3", CultureInfo.InvariantCulture));
+                }
+                
+            }
 
         }
         static int Maior(int n1, int n2, int n3) {
