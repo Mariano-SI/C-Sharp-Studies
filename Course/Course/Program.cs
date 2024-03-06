@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Net;
 using System.Runtime.ConstrainedExecution;
 using System.Runtime.Intrinsics.X86;
 
@@ -144,6 +145,64 @@ namespace Course {
                 }
             */
 
+            /*
+                Exercício 07
+                Correção: https://github.com/acenelio/nivelamento-csharp/blob/master/uri1041/uri1041/Program.cs
+                            Leia 2 valores com uma casa decimal(x e y), que devem representar as coordenadas
+                de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o
+                ponto, ou se está sobre um dos eixos cartesianos ou na origem(x = y = 0).
+                Se o ponto estiver na origem, escreva a mensagem “Origem”.
+                Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a
+                situação.
+
+                string[] coordendas = Console.ReadLine().Split(" ");
+
+            
+                double x = double.Parse(coordendas[0], CultureInfo.InvariantCulture);
+                double y = double.Parse(coordendas[1], CultureInfo.InvariantCulture);
+
+                if(x == 0  && y == 0) {
+                    Console.WriteLine("Origem");
+                }else if(x == 0 || y == 0) {
+                    Console.WriteLine("Eixos cartesianos");
+                }else if ( x > 0 && y > 0) {
+                    Console.WriteLine("Q1");
+                }
+                else if (x < 0 && y > 0) {
+                    Console.WriteLine("Q2");
+                }
+                else if (x < 0 && y < 0) {
+                    Console.WriteLine("Q3");
+                }
+                else {
+                    Console.WriteLine("Q4");
+                }
+            */
+
+            /*
+                Exercício 08
+                
+                Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem
+                que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem
+                qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.
+                Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e
+                mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
+
+                double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                if (salario < 0 || (salario >= 0 && salario <= 2000)) {
+                    Console.WriteLine("Isento");
+                }
+                else if (salario > 2000 && salario <= 3000) {
+                    Console.WriteLine($"R$ {salario * 0.008:F2}");
+                }
+                else if (salario > 3000 && salario <= 4500) {
+                    Console.WriteLine($"R$ {salario * 0.18:F2}");
+                }
+                else {
+                    Console.WriteLine($"R$ {salario * 0.28:F2}");
+                }
+            */
 
 
         }
