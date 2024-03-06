@@ -1,124 +1,148 @@
 ﻿using System.Globalization;
+using System.Runtime.ConstrainedExecution;
+using System.Runtime.Intrinsics.X86;
+
 
 namespace Course {
     internal class Program {
         static void Main(string[] args) {
 
             /*
-                EX 1
-                int x, y, soma;
-                x = int.Parse(Console.ReadLine());
-                y = int.Parse(Console.ReadLine());
-                soma = x + y;
+                Exercício 01
+                Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
+                int num = int.Parse(Console.ReadLine());
 
-                Console.WriteLine($"Soma = {soma}");
-            */
-
-
-            /*
-                EX 2
-                double raio, area, pi = 3.14159;
-
-                raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-                area = pi * Math.Pow(raio, 2);
-
-                Console.WriteLine($"A = {area.ToString("F4", CultureInfo.InvariantCulture)}");
+                if (num >= 0) {
+                    Console.WriteLine("NÃO NEGATIVO");
+                }
+                else {
+                    Console.WriteLine("NEGATIVO");
+                }
             */
 
             /*
-                EX 3
-                int A, B, C, D, resultado;
-                A = int.Parse(Console.ReadLine());
-                B = int.Parse(Console.ReadLine());
-                C = int.Parse(Console.ReadLine());
-                D = int.Parse(Console.ReadLine());
+                Exercicío 02
+                Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
+                int num = int.Parse(Console.ReadLine());
 
-                resultado = (A * B) - (C * D);
-
-                Console.WriteLine($"DIFERENCA = {resultado}");
+                if (num % 2 == 0) {
+                    Console.WriteLine("Par");
+                }
+                else {
+                    Console.WriteLine("Ímpar");
+                }
             */
 
             /*
-                EX 4
-                int funcionarioNum, horasTrabalhadas;
-                double valorHora, salarioFunc;
-
-                funcionarioNum = int.Parse(Console.ReadLine());
-                horasTrabalhadas = int.Parse(Console.ReadLine());
-                valorHora = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-                salarioFunc = horasTrabalhadas * valorHora;
-
-                Console.WriteLine($"NUMBER = {funcionarioNum}");
-                Console.WriteLine($"SALARY = U${salarioFunc.ToString("F2", CultureInfo.InvariantCulture)}");
-            */
-
-            /*
-                EX 5
-                int cod1, cod2, qte1, qte2;
-                double preco1, preco2, total;
+                Exercício 03
+             
+                Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao
+                Multiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em
+                ordem crescente ou decrescente
+            
 
                 string[] valores = Console.ReadLine().Split(' ');
-                cod1 = int.Parse(valores[0]);
-                qte1 = int.Parse(valores[1]);
-                preco1 = double.Parse(valores[2], CultureInfo.InvariantCulture);
+                int firstNumber = int.Parse(valores[0]);
+                int secondNumber = int.Parse(valores[1]);
 
-                valores = Console.ReadLine().Split(' ');
-                cod2 = int.Parse(valores[0]);
-                qte2 = int.Parse(valores[1]);
-                preco2 = double.Parse(valores[2], CultureInfo.InvariantCulture);
-
-                total = preco1 * qte1 + preco2 * qte2;
-
-                Console.WriteLine("VALOR A PAGAR: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
+                if (firstNumber % secondNumber == 0 || secondNumber % firstNumber == 0) {
+                    Console.WriteLine("São Múltiplos");
+                }
+                else {
+                    Console.WriteLine("Não são múltiplos");
+                }
             */
-
 
             /*
-                EX 6
-                double A, B, C, triangulo, circulo, trapezio, quadrado, retangulo;
-
-                string[] valores = Console.ReadLine().Split(' ');
-                A = double.Parse(valores[0], CultureInfo.InvariantCulture);
-                B = double.Parse(valores[1], CultureInfo.InvariantCulture);
-                C = double.Parse(valores[2], CultureInfo.InvariantCulture);
-
-                triangulo = A * C / 2.0;
-                circulo = 3.14159 * C * C;
-                trapezio = (A + B) / 2.0 * C;
-                quadrado = B * B;
-                retangulo = A * B;
-
-                Console.WriteLine("TRIANGULO: " + triangulo.ToString("F3", CultureInfo.InvariantCulture));
-                Console.WriteLine("CIRCULO: " + circulo.ToString("F3", CultureInfo.InvariantCulture));
-                Console.WriteLine("TRAPEZIO: " + trapezio.ToString("F3", CultureInfo.InvariantCulture));
-                Console.WriteLine("QUADRADO: " + quadrado.ToString("F3", CultureInfo.InvariantCulture));
-                Console.WriteLine("RETANGULO: " + retangulo.ToString("F3", CultureInfo.InvariantCulture));
-
+                Exercício 04
+                
+                Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode
+                começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
             */
 
-            int a = 10;
-            bool aIsLowerThan10 = a < 10; //false
-            bool aIsLowerThan20 = a < 20; //true
-            bool aIsBiggerThan10 = a > 10; //false
-            bool aIsBiggerThan5= a > 5; //true
+            /*
+                Exercício 04
+                Correção: https://github.com/acenelio/nivelamento-csharp/blob/master/uri1046/uri1046/Program.cs
+                Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode
+                começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
+            
 
+                string[] inicioEFim = Console.ReadLine().Split(" ");
 
-            Console.WriteLine(aIsLowerThan10);
-            Console.WriteLine(aIsLowerThan20);
-            Console.WriteLine(aIsBiggerThan10);
-            Console.WriteLine(aIsBiggerThan5);
-            Console.WriteLine("----------------------------------------");
+                int inicio = int.Parse(inicioEFim[0]);
+                int fim = int.Parse(inicioEFim[1]);
+                int duracao;
 
-            bool aIsLowerOrEqual10 = a <= 10;  //true
-            bool aIsBiggerOrEqual10 = a <= 10; //true
-            bool aIsEqual10 = a == 10; //true
-            bool aIsDiffeentFrom10 = a != 10; //false
-            Console.WriteLine(aIsLowerOrEqual10);
-            Console.WriteLine(aIsBiggerOrEqual10);
-            Console.WriteLine(aIsEqual10);
-            Console.WriteLine(aIsDiffeentFrom10);
+                if (inicio < fim) {
+                    duracao = fim - inicio;
+                
+                }
+                else {
+                    duracao = (24 + fim) - inicio;
+                }
+                Console.WriteLine($"O JOGO DUROU {duracao} HORA(S)");
+            */
+
+            /*
+                Exercício 05
+                Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item.A
+                seguir, calcule e mostre o valor da conta a pagar
+
+                string[] entrada = Console.ReadLine().Split(" ");
+
+                int codigo = int.Parse(entrada[0]);
+                int quantidade = int.Parse(entrada[1]);
+                double total;
+
+                if (codigo == 1) {
+                    total = quantidade * 4.0;
+                }
+                else if (codigo == 2) {
+                    total = quantidade * 4.5;
+                }
+                else if (codigo == 3) {
+                    total = quantidade * 5.0;
+                }
+                else if (codigo == 4) {
+                    total = quantidade * 2.0;
+                }else if (codigo == 5) {
+                    total = quantidade * 1.5;
+                }
+                else {
+                    total = 0;
+                }
+
+                Console.WriteLine($"Total: R$ {total.ToString("F2", CultureInfo.InvariantCulture)}");
+            */
+
+            /*
+             
+            */
+
+            /*
+                Exercício 06
+                Correção: https://github.com/acenelio/nivelamento-csharp/blob/master/uri1037/uri1037/Program.cs
+                            Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos
+                seguintes intervalos([0,25], (25, 50], (50, 75], (75, 100]) este valor se encontra. Obviamente se o valor não estiver em
+                nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
+                double num = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+                if(num < 0 || num > 100) {
+                    Console.WriteLine("Fora de intervalo");
+                }
+                else {
+                    if (num >= 0 && num <= 25) {
+                        Console.WriteLine("Intervalo [0,25]");
+                    }else if(num > 25 && num <= 50) {
+                        Console.WriteLine("Intervalo [25,50]");
+                    }else if (num > 50 && num <= 75) {
+                        Console.WriteLine("Intervalo [50,75]");
+                    }
+                    else {
+                        Console.WriteLine("Intervalo [75,100]");
+                    }
+                }
+            */
 
 
 
