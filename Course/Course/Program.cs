@@ -15,13 +15,13 @@ namespace Course {
             Console.Write("Quantidade: ");
             produtoExemplo.Quantidade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Dados do produto: {produtoExemplo.Nome}, ${produtoExemplo.Preco.ToString("F2", CultureInfo.InvariantCulture)}, {produtoExemplo.Quantidade} unidades, Total ${produtoExemplo.ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Dados do produto: {produtoExemplo}");
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             produtoExemplo.AdicionaProdutos(int.Parse(Console.ReadLine()));
-            Console.WriteLine($"Dados atualizados: {produtoExemplo.Nome}, ${produtoExemplo.Preco.ToString("F2", CultureInfo.InvariantCulture)}, {produtoExemplo.Quantidade} unidades, Total ${produtoExemplo.ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Dados atualizados: {produtoExemplo}");
             Console.Write("Digite o número de produtos a ser removido do estoque: ");
             produtoExemplo.RemoverProdutos(int.Parse(Console.ReadLine()));
-            Console.WriteLine($"Dados do produto: {produtoExemplo.Nome}, ${produtoExemplo.Preco.ToString("F2", CultureInfo.InvariantCulture)}, {produtoExemplo.Quantidade} unidades, Total ${produtoExemplo.ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Dados atualizados: {produtoExemplo}");
 
 
         }
