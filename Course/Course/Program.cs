@@ -5,32 +5,24 @@ namespace Course {
     internal class Program {
         static void Main(string[] args) {
 
-            double xA, xB, xC, yA, yB, yC;
-            Console.WriteLine("Entre com as medidas do triângulo X: ");
-            xA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            xC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Produto produtoExemplo = new Produto();
 
-            Console.WriteLine("Entre com as medidas do triângulo Y: ");
-            yA = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            yC = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Entre com os dados do produto: ");
+            Console.Write("Nome: ");
+            produtoExemplo.Nome = Console.ReadLine();
+            Console.Write("Preço: ");
+            produtoExemplo.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Quantidade: ");
+            produtoExemplo.Quantidade = int.Parse(Console.ReadLine());
 
-            double p = (xA + xB + xC) / 2;
-            double areaX = Math.Sqrt(p * (p - xA) * (p - xB) * (p - xC));
+            Console.WriteLine($"Dados do produto: {produtoExemplo.Nome}, ${produtoExemplo.Preco.ToString("F2", CultureInfo.InvariantCulture)}, {produtoExemplo.Quantidade} unidades, Total ${produtoExemplo.ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            produtoExemplo.AdicionaProdutos(int.Parse(Console.ReadLine()));
+            Console.WriteLine($"Dados atualizados: {produtoExemplo.Nome}, ${produtoExemplo.Preco.ToString("F2", CultureInfo.InvariantCulture)}, {produtoExemplo.Quantidade} unidades, Total ${produtoExemplo.ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            produtoExemplo.RemoverProdutos(int.Parse(Console.ReadLine()));
+            Console.WriteLine($"Dados do produto: {produtoExemplo.Nome}, ${produtoExemplo.Preco.ToString("F2", CultureInfo.InvariantCulture)}, {produtoExemplo.Quantidade} unidades, Total ${produtoExemplo.ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}");
 
-            p = (yA + yB + yC) / 2;
-            double areaY = Math.Sqrt(p * (p - yA) * (p - yB) * (p - yC));
-
-            Console.WriteLine("Área de X = " + areaX.ToString("F4"));
-            Console.WriteLine("Área de Y = " + areaY.ToString("F4"));
-
-            if(areaX > areaY) {
-                Console.WriteLine("Maior área: X");
-            }
-            else {
-                Console.WriteLine("Maior área: Y");
-            }
 
         }
         static int Maior(int n1, int n2, int n3) {
