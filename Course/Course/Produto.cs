@@ -18,11 +18,25 @@ namespace Course {
             _quantidade = quantidade;
         }
 
-        public string GetNome() {
-            return _nome;
+        public string Nome {
+            get { return _nome; }
+            set {
+                if (value != null && value.Length > 1) {
+                    _nome = value;
+                } 
+            }
         }
-        public void SetNome(string nome) {
-            _nome = nome;
+
+        public double Preco {
+            get { return _preco; }
+        }
+
+        public int Quantidade { 
+            get { return _quantidade; }
+        }
+
+        public int GetQuantidade() {
+            return _quantidade;
         }
 
 

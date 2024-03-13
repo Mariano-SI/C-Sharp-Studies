@@ -7,8 +7,8 @@ namespace Course {
             Produto p = new Produto("TV", 500, 10);
 
             //p.GetNome = "Mariano"; //nao consigo mais pois agora ele é privado
-            p.SetNome("Mariano");
-            Console.WriteLine(p.GetNome());
+            p.Nome = "M";
+            Console.WriteLine(p.Nome);
         }
     }
 }
