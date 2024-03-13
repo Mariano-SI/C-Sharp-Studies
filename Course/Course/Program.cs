@@ -5,44 +5,39 @@ namespace Course {
     internal class Program {
         static void Main(string[] args) {
 
-            int numero;
-            string nomeTitular;
-            double saldoInicial;
-            char depositoInicial;
-            ContaBancaria c1;
+            ContaBancaria conta;
             Console.Write("Entre o número da conta: ");
-            numero = int.Parse(Console.ReadLine());
+            int numero = int.Parse(Console.ReadLine());
 
             Console.Write("Entre o titular da conta: ");
-            nomeTitular = Console.ReadLine();
+            string titular = Console.ReadLine();
 
             Console.Write("Haverá valor de depósito inicial (s/n)? ");
-            depositoInicial = char.Parse(Console.ReadLine());
+            char resposta = char.Parse(Console.ReadLine());
 
-            if(depositoInicial == 's') {
+            if(resposta == 's' || resposta == 'S') {
                 Console.Write("Entre o valor do deposito inicial: ");
-                saldoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                c1 = new ContaBancaria(numero, nomeTitular, saldoInicial);
+                double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                conta = new ContaBancaria(numero, titular, depositoInicial);
                 
             }
             else {
-                c1 = new ContaBancaria(numero, nomeTitular);
+                conta = new ContaBancaria(numero, titular);
             }
-
             Console.WriteLine("Dados da conta: ");
-            Console.WriteLine(c1);
+            Console.WriteLine(conta);
 
             Console.Write("Entre um valor para depósito: ");
-            double deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            c1.Deposito(deposito);
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Deposito(quantia);
             Console.WriteLine("Dados da conta atualizados: ");
-            Console.WriteLine(c1);
+            Console.WriteLine(conta);
 
             Console.Write("Entre um valor para saque: ");
-            double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            c1.Saque(saque);
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            conta.Saque(quantia);
             Console.WriteLine("Dados da conta atualizados: ");
-            Console.WriteLine(c1);
+            Console.WriteLine(conta);
 
         }
     }
