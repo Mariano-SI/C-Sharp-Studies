@@ -4,7 +4,7 @@ using System.Globalization;
 namespace Course {
     internal class ContaBancaria {
         public int Numero { get; }
-        public string NomeTitular { get; }
+        public string NomeTitular { get; set; }
 
         public double Saldo { get; private set; }
 
