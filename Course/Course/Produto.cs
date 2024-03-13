@@ -5,8 +5,8 @@ namespace Course {
     internal class Produto {
 
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
         public Produto() {
 
@@ -14,8 +14,8 @@ namespace Course {
 
         public Produto(string nome, double preco, int quantidade) {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
         public string Nome {
@@ -27,31 +27,22 @@ namespace Course {
             }
         }
 
-        public double Preco {
-            get { return _preco; }
-        }
-
-        public int Quantidade { 
-            get { return _quantidade; }
-        }
-
         public int GetQuantidade() {
-            return _quantidade;
+            return Quantidade;
         }
-
 
         public double ValorTotalEmEstoque() {
-            return _quantidade * _preco;
+            return Quantidade * Preco;
         }
         public void AdicionarProdutos(int quantity) {
-            _quantidade += quantity;
+            Quantidade += quantity;
         }
         public void RemoverProdutos(int quantity) {
-            _quantidade -= quantity;
+            Quantidade -= quantity;
         }
 
         public override string ToString() {
-            return $"{_nome}, $ {_preco.ToString("F2", CultureInfo.InvariantCulture)}, {_quantidade} unidades, Total $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
+            return $"{_nome}, $ {Preco.ToString("F2", CultureInfo.InvariantCulture)}, {Quantidade} unidades, Total $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
