@@ -3,34 +3,41 @@ using System.Globalization;
 
 namespace Course {
     internal class Produto {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+
+        private string _nome;
+        private double _preco;
+        private int _quantidade;
+
+        public Produto() {
+
+        }
 
         public Produto(string nome, double preco, int quantidade) {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
+            _nome = nome;
+            _preco = preco;
+            _quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco) {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = 5;
+        public string GetNome() {
+            return _nome;
         }
+        public void SetNome(string nome) {
+            _nome = nome;
+        }
+
 
         public double ValorTotalEmEstoque() {
-            return Quantidade * Preco;
+            return _quantidade * _preco;
         }
-        public void AdicionaProdutos(int quantity) {
-            Quantidade += quantity;
+        public void AdicionarProdutos(int quantity) {
+            _quantidade += quantity;
         }
         public void RemoverProdutos(int quantity) {
-            Quantidade -= quantity;
+            _quantidade -= quantity;
         }
 
         public override string ToString() {
-            return $"{Nome}, $ {Preco.ToString("F2", CultureInfo.InvariantCulture)}, {Quantidade} unidades, Total $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
+            return $"{_nome}, $ {_preco.ToString("F2", CultureInfo.InvariantCulture)}, {_quantidade} unidades, Total $ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
