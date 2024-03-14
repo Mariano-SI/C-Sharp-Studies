@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap06-MemoriaArraysEListas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d93df8a54e9ef8cf9f46450fe3d45dc22775fb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83fe06d1e0393c37c0a176195f50924c1464b962")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap06-MemoriaArraysEListas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap06-MemoriaArraysEListas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
