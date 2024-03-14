@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cap06-MemoriaArraysEListas/1.0.0": {
+        "runtime": {
+          "Cap06-MemoriaArraysEListas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap06-MemoriaArraysEListas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

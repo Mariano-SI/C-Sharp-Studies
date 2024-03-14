@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\bin\Debug\net6.0\Cap06-MemoriaArraysEListas.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\bin\Debug\net6.0\Cap06-MemoriaArraysEListas.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\bin\Debug\net6.0\Cap06-MemoriaArraysEListas.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\bin\Debug\net6.0\Cap06-MemoriaArraysEListas.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\bin\Debug\net6.0\Cap06-MemoriaArraysEListas.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\refint\Cap06-MemoriaArraysEListas.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\Cap06-MemoriaArraysEListas.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap06-MemoriaArraysEListas\Cap06-MemoriaArraysEListas\obj\Debug\net6.0\ref\Cap06-MemoriaArraysEListas.dll

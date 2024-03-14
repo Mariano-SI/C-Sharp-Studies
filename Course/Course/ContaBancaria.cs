@@ -13,8 +13,8 @@ namespace Course {
             Titular = nome;
         }
 
-        public ContaBancaria(int numero, string nome, double saldo) :this(numero, nome) {
-            Saldo = saldo;
+        public ContaBancaria(int numero, string nome, double depositoInicial) :this(numero, nome) {
+            Deposito(depositoInicial);
         }
 
         public void Deposito(double quantia) {
