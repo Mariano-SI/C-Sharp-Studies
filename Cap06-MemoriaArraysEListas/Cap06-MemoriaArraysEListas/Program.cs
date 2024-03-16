@@ -1,24 +1,16 @@
 ﻿using System.Globalization;
+using System.Collections.Generic;
 
 namespace Cap06_MemoriaArraysEListas {
     internal class Program {
         static void Main(string[] args) {
 
 
-            string[] nomes = new string[] { "Mariano", "Maria", "Bob", "Alex" };
+            //inicializando uma lista vazia
+            List<string> nomes = new List<string>();
 
-            //for normal
-
-            for(int i = 0; i < nomes.Length; i++) {
-                Console.WriteLine(nomes[i]);
-            }
-
-            Console.WriteLine("------------------------------------------");
-
-            //foreach
-            foreach (string nome in nomes) {
-                Console.WriteLine(nome);
-            }
+            //lhe instanciando com valores
+            List<int> list2 = new List<int> { 1, 2, 4 };
         }
     }
 }
