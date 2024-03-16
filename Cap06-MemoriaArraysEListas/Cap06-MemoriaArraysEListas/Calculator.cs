@@ -14,5 +14,9 @@ namespace Cap06_MemoriaArraysEListas {
 
             return sum;
         }
+
+        public static int Triple(ref int x) {
+            return x *= 3;
+        }
     }
 }
