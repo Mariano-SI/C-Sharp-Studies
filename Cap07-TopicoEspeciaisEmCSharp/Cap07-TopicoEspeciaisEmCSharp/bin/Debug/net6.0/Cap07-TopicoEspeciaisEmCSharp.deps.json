@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cap07-TopicoEspeciaisEmCSharp/1.0.0": {
+        "runtime": {
+          "Cap07-TopicoEspeciaisEmCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap07-TopicoEspeciaisEmCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

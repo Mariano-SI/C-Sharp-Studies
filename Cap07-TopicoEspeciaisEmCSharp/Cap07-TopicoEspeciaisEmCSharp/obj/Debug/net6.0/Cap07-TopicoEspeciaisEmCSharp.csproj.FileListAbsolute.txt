@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\bin\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\bin\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\bin\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\bin\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\bin\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\refint\Cap07-TopicoEspeciaisEmCSharp.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\Cap07-TopicoEspeciaisEmCSharp.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap07-TopicoEspeciaisEmCSharp\Cap07-TopicoEspeciaisEmCSharp\obj\Debug\net6.0\ref\Cap07-TopicoEspeciaisEmCSharp.dll
