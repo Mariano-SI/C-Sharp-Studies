@@ -4,40 +4,32 @@ namespace Cap07_TopicoEspeciaisEmCSharp {
     internal class Program {
         static void Main(string[] args) {
 
-            string original = "abcde FGHIJ ABC abc DEFG   ";
-  
-            //Mauisculo
-            string maiusculo = original.ToUpper();
-            //Minusculo
-            string minusculo = original.ToLower();
-            //Trim, remove espacos no inciio e final
-            string stringComTrim = original.Trim();
-            //Buscas
-            int indexOfbc = original.IndexOf("bc"); //Mostra onde se inicia a primeira aparição desse trecho, no caso 1
-            int lastIndexOfbc = original.LastIndexOf("bc"); //Mostra onde se inicia a ultima aparição desse trecho, no caso 17
-            //Recorte de string
-            string recortada3 = original.Substring(3); //corte de 3 em diante
-            string recortadaComRange = original.Substring(3, 5); //comece em 3 + 5 caracteres
-            //Substituicao de partes de string
-            string trocaAPorX = original.Replace("a", "x");
-            string trocaabcPorY = original.Replace("abc", "y");
-            //Testar se a string é vazia ou nula
-            bool isNullOrEmpty = String.IsNullOrEmpty(original);
-            //Testar se a variavel é nula, composta somente de espacos ou vazia = true
-            bool isNullOrWhiteSpace = String.IsNullOrWhiteSpace(original);
+            DateTime d1 = DateTime.Now; //data e hora de agora, no momento que fiz isso = 19/03/2024 07:47:55
+            Console.WriteLine(d1);
+            Console.WriteLine(d1.Ticks); //datetime é do tipo valor e armazena Ticks é uma quantidae de nanosegundos que é convertida numa represetacao legivel
 
-            Console.WriteLine("Original: " + original + "-");
-            Console.WriteLine("Maiusculo: " + maiusculo + "-");
-            Console.WriteLine("Minusculo: " + minusculo + "-");
-            Console.WriteLine("Com trim: " + stringComTrim + "-");
-            Console.WriteLine("Primeira aparição do bc: " + indexOfbc + "-");
-            Console.WriteLine("Ultima aparição do bc: " + lastIndexOfbc + "-");
-            Console.WriteLine("Substring3: " + recortada3 + "-");
-            Console.WriteLine("Substring com range: " + recortadaComRange + "-");
-            Console.WriteLine("Substituicao de partes de string: " + trocaAPorX + "-");
-            Console.WriteLine("Substituicao de partes de string: " + trocaabcPorY + "-");
-            Console.WriteLine("Is null or empty: " + isNullOrEmpty + "-");
-            Console.WriteLine("Is null or white spacey: " + isNullOrWhiteSpace + "-");
+            //Outras formas de se declarar
+            DateTime d2 = new DateTime(2024, 07, 05); //ano mes dia
+            Console.WriteLine("Ano mes dia: " + d2);
+
+            DateTime d3 = new DateTime(2018, 11, 25, 20, 45, 03); //ano mes dia hora minuto segundo
+            Console.WriteLine("Ano mes dia e horario: " + d3);
+
+            DateTime d4 = new DateTime(2018, 11, 25, 20, 45, 03, 500); //ano mes dia hora minuto segundo milissegundos
+            Console.WriteLine(d4);
+
+            //Declarando usando builders
+            DateTime d5 = DateTime.Now; //data e hora atual no horario padrao da maquina
+            DateTime d6 = DateTime.Today; //data de hoje no horario de 00:00:00
+            DateTime d7 = DateTime.UtcNow; //data de hoje no horario universal de Greenwich
+
+            //Usando parse
+            DateTime d8 = DateTime.Parse("2000-08-15");
+            Console.WriteLine(d8);
+            DateTime d9 = DateTime.Parse("2000-08-15 13:05:34");
+            Console.WriteLine(d9);
+            DateTime d10 = DateTime.Parse("15-08-2000"); //Formato brasileiro
+            Console.WriteLine(d10);
 
         }
     }
