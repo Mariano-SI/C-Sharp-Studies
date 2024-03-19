@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap07-TopicoEspeciaisEmCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6619f10ec5e1623ee2e501607ef58a5e5ca3abe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8842d8c7af764c25475ed897553f8d4dec2eaa70")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap07-TopicoEspeciaisEmCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap07-TopicoEspeciaisEmCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
