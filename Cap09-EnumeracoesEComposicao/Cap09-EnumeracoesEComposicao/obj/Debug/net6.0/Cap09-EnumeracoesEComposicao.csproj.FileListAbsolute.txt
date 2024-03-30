@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\bin\Debug\net6.0\Cap09-EnumeracoesEComposicao.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\bin\Debug\net6.0\Cap09-EnumeracoesEComposicao.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\bin\Debug\net6.0\Cap09-EnumeracoesEComposicao.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\bin\Debug\net6.0\Cap09-EnumeracoesEComposicao.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\bin\Debug\net6.0\Cap09-EnumeracoesEComposicao.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\refint\Cap09-EnumeracoesEComposicao.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\Cap09-EnumeracoesEComposicao.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap09-EnumeracoesEComposicao\Cap09-EnumeracoesEComposicao\obj\Debug\net6.0\ref\Cap09-EnumeracoesEComposicao.dll
