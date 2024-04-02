@@ -47,6 +47,8 @@ namespace _02_ExercicioPropostoComposicao
                 order.AddItem(orderItem);
             }
 
+            Console.WriteLine();
+            Console.WriteLine("ORDER SUMMARY:");
             Console.WriteLine(order);
         }
     }
