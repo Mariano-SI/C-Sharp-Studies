@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap09-EnumeracoesEComposicao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9ecc4a7f798707efb2d42f2be98556b77738101")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+498dd38342fd111de1584bdf74c87b9253fdf224")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap09-EnumeracoesEComposicao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap09-EnumeracoesEComposicao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

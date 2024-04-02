@@ -25,6 +25,8 @@ namespace _01_ExercicioComposicao
 
             Worker worker = new Worker(name, level, baseSalary, department);
 
+
+            worker.Contracts.Add()
             Console.Write("How many contracts to this worker? ");
             int contracts = int.Parse(Console.ReadLine());
 
