@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\bin\Debug\net6.0\02-ExercicioPropostoComposicao.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\bin\Debug\net6.0\02-ExercicioPropostoComposicao.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\bin\Debug\net6.0\02-ExercicioPropostoComposicao.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\bin\Debug\net6.0\02-ExercicioPropostoComposicao.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\bin\Debug\net6.0\02-ExercicioPropostoComposicao.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\refint\02-ExercicioPropostoComposicao.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\02-ExercicioPropostoComposicao.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\02-ExercicioPropostoComposicao\02-ExercicioPropostoComposicao\obj\Debug\net6.0\ref\02-ExercicioPropostoComposicao.dll
