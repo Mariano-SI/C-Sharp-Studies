@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap10-HerancaEPolimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e1dbb9b37054d048af0ccf1631ddc619adff2df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521dab462bf1a391f964b834809931ca71ebc951")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap10-HerancaEPolimorfismo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap10-HerancaEPolimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
