@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\bin\Debug\net6.0\04-ExResolvidoMetodosAbstratos.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\bin\Debug\net6.0\04-ExResolvidoMetodosAbstratos.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\bin\Debug\net6.0\04-ExResolvidoMetodosAbstratos.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\bin\Debug\net6.0\04-ExResolvidoMetodosAbstratos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\bin\Debug\net6.0\04-ExResolvidoMetodosAbstratos.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\refint\04-ExResolvidoMetodosAbstratos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\04-ExResolvidoMetodosAbstratos.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\04-ExResolvidoMetodosAbstratos\04-ExResolvidoMetodosAbstratos\obj\Debug\net6.0\ref\04-ExResolvidoMetodosAbstratos.dll
