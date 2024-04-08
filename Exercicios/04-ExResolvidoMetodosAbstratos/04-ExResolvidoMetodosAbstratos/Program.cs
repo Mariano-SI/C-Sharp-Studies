@@ -17,7 +17,7 @@ namespace _04_ExResolvidoMetodosAbstratos
             {
                 Console.WriteLine($"Shape #{i} data: ");
 
-                Console.Write("Rectangle or Cicle (r/c)");
+                Console.Write("Rectangle or Cicle (r/c)? ");
                 char shapeType = char.Parse(Console.ReadLine());
 
                 Console.Write("Color (Black/Blue/Red): ");

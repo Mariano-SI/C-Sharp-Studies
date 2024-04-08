@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Course\\Course\\Course.csproj": {}
+    "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Exercicios\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Course\\Course\\Course.csproj": {
+    "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Exercicios\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Course\\Course\\Course.csproj",
-        "projectName": "Course",
-        "projectPath": "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Exercicios\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos.csproj",
+        "projectName": "05-ExercicioPropostoMetodosAbstratos",
+        "projectPath": "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Exercicios\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos.csproj",
         "packagesPath": "C:\\Users\\dtiDigital\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Course\\Course\\obj\\",
+        "outputPath": "C:\\Users\\dtiDigital\\Desktop\\C-Sharp-Studies\\Exercicios\\05-ExercicioPropostoMetodosAbstratos\\05-ExercicioPropostoMetodosAbstratos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dtiDigital\\AppData\\Roaming\\NuGet\\NuGet.Config",
