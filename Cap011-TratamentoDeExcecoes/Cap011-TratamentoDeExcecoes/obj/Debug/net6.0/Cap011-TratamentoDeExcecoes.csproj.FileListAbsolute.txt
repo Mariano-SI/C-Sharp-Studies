@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\bin\Debug\net6.0\Cap011-TratamentoDeExcecoes.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\bin\Debug\net6.0\Cap011-TratamentoDeExcecoes.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\bin\Debug\net6.0\Cap011-TratamentoDeExcecoes.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\bin\Debug\net6.0\Cap011-TratamentoDeExcecoes.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\bin\Debug\net6.0\Cap011-TratamentoDeExcecoes.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\refint\Cap011-TratamentoDeExcecoes.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\Cap011-TratamentoDeExcecoes.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap011-TratamentoDeExcecoes\Cap011-TratamentoDeExcecoes\obj\Debug\net6.0\ref\Cap011-TratamentoDeExcecoes.dll
