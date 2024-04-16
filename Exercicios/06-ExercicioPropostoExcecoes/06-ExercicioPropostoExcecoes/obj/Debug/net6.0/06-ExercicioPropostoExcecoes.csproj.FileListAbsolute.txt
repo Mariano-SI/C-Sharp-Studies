@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\bin\Debug\net6.0\06-ExercicioPropostoExcecoes.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\bin\Debug\net6.0\06-ExercicioPropostoExcecoes.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\bin\Debug\net6.0\06-ExercicioPropostoExcecoes.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\bin\Debug\net6.0\06-ExercicioPropostoExcecoes.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\bin\Debug\net6.0\06-ExercicioPropostoExcecoes.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\refint\06-ExercicioPropostoExcecoes.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\06-ExercicioPropostoExcecoes.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\06-ExercicioPropostoExcecoes\06-ExercicioPropostoExcecoes\obj\Debug\net6.0\ref\06-ExercicioPropostoExcecoes.dll
