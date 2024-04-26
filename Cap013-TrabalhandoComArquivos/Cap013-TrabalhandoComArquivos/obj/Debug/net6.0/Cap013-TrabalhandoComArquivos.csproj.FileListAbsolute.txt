@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\bin\Debug\net6.0\Cap013-TrabalhandoComArquivos.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\bin\Debug\net6.0\Cap013-TrabalhandoComArquivos.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\bin\Debug\net6.0\Cap013-TrabalhandoComArquivos.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\bin\Debug\net6.0\Cap013-TrabalhandoComArquivos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\bin\Debug\net6.0\Cap013-TrabalhandoComArquivos.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\refint\Cap013-TrabalhandoComArquivos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\Cap013-TrabalhandoComArquivos.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap013-TrabalhandoComArquivos\Cap013-TrabalhandoComArquivos\obj\Debug\net6.0\ref\Cap013-TrabalhandoComArquivos.dll
