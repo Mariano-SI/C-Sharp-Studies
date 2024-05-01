@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Cap013-TrabalhandoComArquivos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Cap014-Interfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f83126153125e7789f3110924afe528aa39c00e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Cap013-TrabalhandoComArquivos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Cap013-TrabalhandoComArquivos")]
+[assembly: System.Reflection.AssemblyProductAttribute("Cap014-Interfaces")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Cap014-Interfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
