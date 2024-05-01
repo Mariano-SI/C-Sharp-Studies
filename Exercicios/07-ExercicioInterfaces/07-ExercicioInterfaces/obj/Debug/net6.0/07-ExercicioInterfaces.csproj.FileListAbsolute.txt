@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\bin\Debug\net6.0\07-ExercicioInterfaces.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\bin\Debug\net6.0\07-ExercicioInterfaces.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\bin\Debug\net6.0\07-ExercicioInterfaces.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\bin\Debug\net6.0\07-ExercicioInterfaces.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\bin\Debug\net6.0\07-ExercicioInterfaces.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\refint\07-ExercicioInterfaces.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\07-ExercicioInterfaces.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\07-ExercicioInterfaces\07-ExercicioInterfaces\obj\Debug\net6.0\ref\07-ExercicioInterfaces.dll
