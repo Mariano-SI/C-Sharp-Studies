@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\bin\Debug\net6.0\Cap15-.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\bin\Debug\net6.0\Cap15-.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\bin\Debug\net6.0\Cap15-.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\bin\Debug\net6.0\Cap15-.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\bin\Debug\net6.0\Cap15-.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\refint\Cap15-.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\Cap15-.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap15-GenericsSetEDicionary\Cap15-\obj\Debug\net6.0\ref\Cap15-.dll
