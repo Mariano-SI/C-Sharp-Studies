@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\bin\Debug\net6.0\08-ExResolvidoConjuntos.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\bin\Debug\net6.0\08-ExResolvidoConjuntos.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\bin\Debug\net6.0\08-ExResolvidoConjuntos.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\bin\Debug\net6.0\08-ExResolvidoConjuntos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\bin\Debug\net6.0\08-ExResolvidoConjuntos.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\refint\08-ExResolvidoConjuntos.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\08-ExResolvidoConjuntos.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\08-ExResolvidoConjuntos\08-ExResolvidoConjuntos\obj\Debug\net6.0\ref\08-ExResolvidoConjuntos.dll
