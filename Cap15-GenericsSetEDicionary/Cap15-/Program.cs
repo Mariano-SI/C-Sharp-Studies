@@ -1,4 +1,5 @@
 ﻿using Entities;
+using System.Globalization;
 
 namespace Cap15_
 {
@@ -6,20 +7,25 @@ namespace Cap15_
     {
         static void Main(string[] args)
         {
-            PrintService printService = new PrintService();
+            List<Produto> list = new List<Produto>();
 
-            Console.Write("How many values? ");
+            Console.Write("Enter N: ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+            for(int i = 0; i < n; i++)
             {
-                int x = int.Parse(Console.ReadLine());
-                printService.AddValue(x);
+                string[] vect = Console.ReadLine().Split(',');
+                string name = vect[0];
+                double price = double.Parse(vect[1], CultureInfo.InvariantCulture);
+                list.Add(new Produto(name, price));
             }
 
-            printService.Print();
-            Console.WriteLine();
-            Console.Write("First: " +  printService.First());
+            CalculationService calculationService = new CalculationService();
+
+            Produto max = calculationService.Max(list);
+
+            Console.WriteLine("Max:");
+            Console.WriteLine(max);
         }
     }
 }
