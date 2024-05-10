@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Extensions
+namespace System
 {
     static class DateTimeExtensions
     {
@@ -11,11 +11,11 @@ namespace Extensions
 
             if (duration.TotalHours < 24)
             {
-                return duration.TotalHours.ToString("F1", CultureInfo.InvariantCulture) + "horas";
+                return duration.TotalHours.ToString("F1", CultureInfo.InvariantCulture) + " horas";
             }
             else
             {
-                return duration.TotalDays.ToString("F1", CultureInfo.InvariantCulture) + "dias";
+                return duration.TotalDays.ToString("F1", CultureInfo.InvariantCulture) + " dias";
             }
         }
     }
