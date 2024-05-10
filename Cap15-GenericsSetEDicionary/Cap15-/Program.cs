@@ -7,25 +7,35 @@ namespace Cap15_
     {
         static void Main(string[] args)
         {
-            List<Produto> list = new List<Produto>();
+            Dictionary<string, string> cookies = new Dictionary<string, string>();
 
-            Console.Write("Enter N: ");
-            int n = int.Parse(Console.ReadLine());
+            cookies["user"] = "Mariano";
+            cookies["email"] = "Mariano.silva@ufvjm.edu.br";
+            cookies["phone"] = "988539207";
+            cookies["phone"] = "35313870";
 
-            for(int i = 0; i < n; i++)
+
+            Console.WriteLine(cookies["email"]);
+            Console.WriteLine(cookies["phone"]);
+
+            cookies.Remove("email");
+            if (cookies.ContainsKey("email"))
             {
-                string[] vect = Console.ReadLine().Split(',');
-                string name = vect[0];
-                double price = double.Parse(vect[1], CultureInfo.InvariantCulture);
-                list.Add(new Produto(name, price));
+                Console.WriteLine(cookies["email"]);
+            }
+            else
+            {
+                Console.WriteLine("There is no email key");
             }
 
-            CalculationService calculationService = new CalculationService();
+            Console.WriteLine("Size: " + cookies.Count);
 
-            Produto max = calculationService.Max(list);
+            Console.WriteLine("All Cookies:");
+            foreach (KeyValuePair<string, string> cookie in cookies)
+            {
+                Console.WriteLine(cookie.Key + ": " + cookie.Value);
+            }
 
-            Console.WriteLine("Max:");
-            Console.WriteLine(max);
         }
     }
 }
