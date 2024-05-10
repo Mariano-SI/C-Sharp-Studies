@@ -24,10 +24,9 @@
                 {
                     while (!sr.EndOfStream)
                     {
-                        string line = sr.ReadLine();
-                        string[] data = line.Split(',');
-                        string candidateName = data[0];
-                        int cityVotes = int.Parse(data[1]);
+                        string[] line = sr.ReadLine().Split(',');
+                        string candidateName = line[0];
+                        int cityVotes = int.Parse(line[1]);
                         if (!votes.ContainsKey(candidateName))
                         {
                             votes[candidateName] = cityVotes;

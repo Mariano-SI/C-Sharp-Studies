@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap16-topicosEspeciaisEmCSharpParte2", "Cap16-topicosEspeciaisEmCSharpParte2\Cap16-topicosEspeciaisEmCSharpParte2.csproj", "{731D4165-8F0D-4C85-911D-BDF361D7DDA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731D4165-8F0D-4C85-911D-BDF361D7DDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731D4165-8F0D-4C85-911D-BDF361D7DDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731D4165-8F0D-4C85-911D-BDF361D7DDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731D4165-8F0D-4C85-911D-BDF361D7DDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B443E21F-4D76-4DCA-ADFA-4E19D53EF0D2}
+	EndGlobalSection
+EndGlobal
