@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\bin\Debug\net6.0\09-ExPropostoDictionary.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\bin\Debug\net6.0\09-ExPropostoDictionary.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\bin\Debug\net6.0\09-ExPropostoDictionary.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\bin\Debug\net6.0\09-ExPropostoDictionary.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\bin\Debug\net6.0\09-ExPropostoDictionary.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\refint\09-ExPropostoDictionary.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\09-ExPropostoDictionary.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Exercicios\09-ExPropostoDictionary\09-ExPropostoDictionary\obj\Debug\net6.0\ref\09-ExPropostoDictionary.dll
