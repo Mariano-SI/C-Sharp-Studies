@@ -1,0 +1,15 @@
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\bin\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.exe
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\bin\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.deps.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\bin\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.runtimeconfig.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\bin\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\bin\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.AssemblyInfo.cs
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.sourcelink.json
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\refint\Cap17-ExpressoesLambdaDelegatesELINQ.dll
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.pdb
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\Cap17-ExpressoesLambdaDelegatesELINQ.genruntimeconfig.cache
+C:\Users\dtiDigital\Desktop\C-Sharp-Studies\Cap17-ExpressoesLambdaDelegatesELINQ\Cap17-ExpressoesLambdaDelegatesELINQ\obj\Debug\net6.0\ref\Cap17-ExpressoesLambdaDelegatesELINQ.dll
