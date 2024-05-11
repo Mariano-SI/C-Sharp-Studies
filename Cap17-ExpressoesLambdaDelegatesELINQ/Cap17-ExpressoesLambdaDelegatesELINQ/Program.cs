@@ -71,7 +71,43 @@ namespace Cap17_ExpressoesLambdaDelegatesELINQ
             Console.WriteLine();
 
             var result8 = products.Where(p => p.Id == 3).SingleOrDefault();
-            Console.WriteLine("SigleOrDefaut test1: " + result8);
+            Console.WriteLine("SigleOrDefault test1: " + result8);
+
+
+            var result9 = products.Where(p => p.Id == 30).SingleOrDefault();
+            Console.WriteLine("SigleOrDefault test1: " + result9); //Result will be empty 
+
+            //MAX PRICE
+            var result10 = products.Max(p => p.Price);
+            Console.WriteLine("MAX PRICE: "+ result10); //retuns 1800
+
+            //MIN PRICE
+            var result11 = products.Min(p => p.Price);
+            Console.WriteLine("MIN PRICE: " + result11); //retuns 70
+
+            //SUM OF PRICE OF PRODUTS FROM CATEGORY WITH ID 1
+            var result12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            Console.WriteLine("SUM OF PRICE OF PRODUTS FROM CATEGORY WITH ID 1: " + result12);
+
+            //AVERAGE OF PRICE OF PRODUTS FROM CATEGORY WITH ID 1
+            var result13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            Console.WriteLine("AVERAGE OF PRICE OF PRODUTS FROM CATEGORY WITH ID 1: " + result13);
+
+            //AGGREGATE == REDUCE IN JS
+            var result14 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
+            Console.WriteLine("Category 1 aggregate sum: "+ result14);
+
+            var result15 = products.GroupBy(p => p.Category);
+
+            foreach (IGrouping<Category, Product> group in result15)
+            {
+                Console.WriteLine("Category: " + group.Key.Name);
+                foreach (Product product in group)
+                {
+                    Console.WriteLine(product);
+                }
+                Console.WriteLine();
+            }
 
         }
     }
