@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cap17-ExpressoesLambdaDelegatesELINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86b28e9fe2d496b3c3257e75c75bcc5b27b8d602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4faf0514d19380f538b3a0305f60110dde27d22")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cap17-ExpressoesLambdaDelegatesELINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cap17-ExpressoesLambdaDelegatesELINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

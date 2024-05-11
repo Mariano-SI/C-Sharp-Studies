@@ -38,12 +38,18 @@ namespace Cap17_ExpressoesLambdaDelegatesELINQ
             };
 
             //TIER 1 AND PRICE < 900
-            var result1 = products.Where(x => x.Category.Tier == 1 && x.Price < 900);
+            //var result1 = products.Where(x => x.Category.Tier == 1 && x.Price < 900);
+            var result1 = from p in products 
+                          where p.Category.Tier == 1 && p.Price < 900
+                          select p;
 
             Print("TIER 1 AND PRICE < 900", result1);
 
             //NAME OF PRODUCTS FROM TOOLS CATEGORY
-            var result2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+            //var result2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+            var result2 = from p in products
+                          where p.Category.Name == "Tools"
+                          select p.Name;
 
             Print("NAME OF PRODUCTS FROM TOOLS CATEGORY", result2);
 
@@ -96,7 +102,9 @@ namespace Cap17_ExpressoesLambdaDelegatesELINQ
             //AGGREGATE == REDUCE IN JS
             var result14 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
             Console.WriteLine("Category 1 aggregate sum: "+ result14);
+            Console.WriteLine();
 
+            //Agrupar
             var result15 = products.GroupBy(p => p.Category);
 
             foreach (IGrouping<Category, Product> group in result15)
